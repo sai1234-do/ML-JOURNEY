@@ -1,0 +1,9 @@
+THE MAIN TOOLS I HAVE USED TO BUILD THIS AI-RESUME-ANALYSER ARE:
+streamlit
+sentence-transformers
+transformers
+sentencepiece
+chromadb
+python-docx
+torch
+torchvision
