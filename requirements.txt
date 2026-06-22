@@ -1,4 +1,3 @@
-THE MAIN TOOLS I HAVE USED TO BUILD THIS AI-RESUME-ANALYSER ARE:
 streamlit
 sentence-transformers
 transformers
