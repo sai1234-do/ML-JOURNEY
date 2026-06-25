@@ -4,7 +4,8 @@ An ML-powered Hiring Intelligence Platform that helps recruiters evaluate candid
 
 ## 🚀 Live Demo
 
-(Add your Streamlit link here)
+🌐 Live Application:
+https://ml-journey-osmlvmpfkmbox4cwxruavt.streamlit.app/
 
 ## ✨ Features
 
