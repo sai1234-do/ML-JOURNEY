@@ -17,6 +17,31 @@ An ML-powered Hiring Intelligence Platform that helps recruiters evaluate candid
 * Hiring Recommendation
 * Resume Ranking
 
+## 📸 Screenshots
+
+### 👔 Recruiter Dashboard
+
+![Recruiter Dashboard]
+
+---
+
+### 🎯 Candidate Dashboard
+
+![Candidate Dashboard]
+
+---
+
+### 🏆 Resume Ranking
+
+![Resume Ranking]
+
+---
+
+### 🧠 AI Semantic Matching
+
+![Semantic Matching]
+
+
 ### 🎯 Candidate Workspace
 
 * Career Readiness Score
